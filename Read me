@@ -1,0 +1,6 @@
+Blood Glucose Level Prediction using XGBoost
+📘 Overview
+
+This project aims to predict short-term blood glucose levels using machine learning techniques — specifically XGBoost, a high-performance gradient boosting algorithm.
+
+By leveraging time-series glucose readings and physiological features, this model helps forecast glucose values one hour ahead, providing insights useful for diabetes management, early warning systems, and personalized health monitoring.
